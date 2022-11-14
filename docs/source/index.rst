@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+Management console
 ===================================
+Management console is an administration system integrated with reactivepay services. This system provides functionality for managing various elements of the reactivepay system, such as creating merchants or viewing various statistics.
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Access to the Management console is carried out through the login at core.reactivepay.com/manage/
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+.. image:: img/manage_login.png
 
-.. note::
+The Management Console is divided into sections representing the relevant functionality. Section List:
 
-   This project is under active development.
-
-Contents
---------
-
-.. toctree::
-
-   usage
-   api
+- Admin Users
+- Merchant settements
+- Merchants
+- Profiles
+- Disputes
+- Charge requests
+- Payins/Payouts
+- Payment Requests
