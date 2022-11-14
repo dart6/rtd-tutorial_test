@@ -23,5 +23,4 @@ Contents
 
 .. toctree::
 
-   mancon
-   adminuser
+adminuser
