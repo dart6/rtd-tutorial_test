@@ -7,5 +7,5 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   mancon
+   adminuser
