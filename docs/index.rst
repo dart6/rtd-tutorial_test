@@ -21,6 +21,10 @@ The Management Console is divided into sections representing the relevant functi
 Contents
 --------
 
-.. toctree::
+Contents:
 
-adminuser
+.. toctree::
+   :maxdepth: 2
+   :caption: Table of Contents
+
+  adminuser
